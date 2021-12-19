@@ -8,3 +8,5 @@ Dependency Java Maven
 
 To see the result of Tes: go to testout folder, copy the path of index.html, broswse it
 
+chrome version : 96.0.4664.110 (Official Build) (64-bit)
+
