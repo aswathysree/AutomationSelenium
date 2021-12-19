@@ -2,7 +2,7 @@
 Assignment for Ranstad
 Page Object model Test automation framework using Selenium with Java, TestNG and Maven-
 
-This is a sample project for ranstad tto list the job for consultant. TestNG is used as test framework.
+This is a sample project for ranstad to list the job for consultant. TestNG is used as test framework.
 
 Dependency Java Maven
 
